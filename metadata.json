@@ -1,0 +1,8 @@
+{
+  "name": "AgriSmart - Intelligent Farming Ecosystem",
+  "description": "A comprehensive AI-powered platform for farmers and admins featuring crop diagnosis, voice-assisted multilingual advisory, IoT farm health monitoring, and market rate tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
